@@ -32,7 +32,8 @@ export const constantRouterMap = [
   {
     path: '',
     component: mngLayout,
-    hidden: true,
+    hidden: false,
+    redirect: '/index',
     children: [{
       path: 'index',
       component: () => import('@/views/mainPage/index'),
