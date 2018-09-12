@@ -1,6 +1,6 @@
 # vue-start-demo
 
-> vue项目demo
+> vue起始项目，有登录功能。
 
 ## Build Setup
 
