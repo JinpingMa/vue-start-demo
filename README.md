@@ -1,5 +1,4 @@
-# vue-start-demo
-
+# [vue-start-demo](https://github.com/JinpingMa/vue-start-demo) &middot; [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 > vue起始项目，有登录功能。
 
 ## Build Setup
